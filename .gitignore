@@ -1,0 +1,7 @@
+# Ignore dataset and models
+chest_xray/
+models/
+
+# Ignore temp files
+__pycache__/
+*.ipynb_checkpoints
